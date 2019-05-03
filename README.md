@@ -229,14 +229,14 @@ Visit the [SF Data Science Meetup](https://www.meetup.com/SF-Data-Science/) meet
 
 #### Immersive Bootcamp
 
-- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/2/19
+- [Data Science](https://www.galvanize.com/data-science) - Starts: 5/6/19
 
-- [Software Engineer](https://www.galvanize.com/web-development) - 2/19/19 - 5/17/19
+- [Software Engineer](https://www.galvanize.com/web-development) - Starts: 5/28/19
 
 #### Part-Time Courses
 
-- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
-- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals) - 2/20/19 - 3/29/19
+- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 
+- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals) 
 
 #### Co-working Space
 
