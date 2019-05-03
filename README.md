@@ -27,7 +27,7 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 ## Setting up your computer
 
-- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ).
+- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1Ev89eXkDkddzXxD9s-dqLYmI3jpyMdBG).
 
 Make a copy by clicking `file` and `make copy` or `save to drive`
 
@@ -190,7 +190,7 @@ Here's what we will do!
 
 #### Get Started:
 
-- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1UzyruU8hLorhEZb4RmHqh7pMQjt7mDeQ).
+- Open the notebook for this workshop [here](https://colab.research.google.com/drive/1Ev89eXkDkddzXxD9s-dqLYmI3jpyMdBG).
 
 Make a copy by clicking `file` and `make copy` or `save to drive`
 
